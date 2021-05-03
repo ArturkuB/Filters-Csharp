@@ -1,0 +1,15 @@
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.exe
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.deps.json
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.runtimeconfig.json
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.dll
+C:\Users\Artur\source\repos\Filters\Filters\bin\Debug\netcoreapp3.1\Filters.pdb
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.Form1.resources
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.AssemblyInfo.cs
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.dll
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.pdb
+C:\Users\Artur\source\repos\Filters\Filters\obj\Debug\netcoreapp3.1\Filters.genruntimeconfig.cache
